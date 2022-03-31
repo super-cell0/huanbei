@@ -1,0 +1,228 @@
+
+/* Class = "UIBarButtonItem"; title = "添加"; ObjectID = "01S-X5-B77"; */
+"01S-X5-B77.title" = "添加";
+
+/* Class = "UIBarButtonItem"; title = "添加"; ObjectID = "0vK-8z-O4q"; */
+"0vK-8z-O4q.title" = "添加";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4ff-cc-IIC"; */
+"4ff-cc-IIC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "支出/元"; ObjectID = "5Sh-a0-3xk"; */
+"5Sh-a0-3xk.text" = "支出/元";
+
+/* Class = "UINavigationItem"; title = "首页"; ObjectID = "5ok-7G-W1d"; */
+"5ok-7G-W1d.title" = "首页";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "5qx-DA-ucl"; */
+"5qx-DA-ucl.title" = "取消";
+
+/* Class = "UILabel"; text = "支出"; ObjectID = "5wV-yz-b08"; */
+"5wV-yz-b08.text" = "支出";
+
+/* Class = "UITabBarItem"; title = "账单"; ObjectID = "6G2-MQ-bUa"; */
+"6G2-MQ-bUa.title" = "账单";
+
+/* Class = "UITextField"; placeholder = "请选择"; ObjectID = "6pf-jj-EtO"; */
+"6pf-jj-EtO.placeholder" = "请选择";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "6tx-mT-ZfB"; */
+"6tx-mT-ZfB.title" = "我的";
+
+/* Class = "UITextField"; placeholder = "持卡人姓名"; ObjectID = "9lu-XQ-N30"; */
+"9lu-XQ-N30.placeholder" = "持卡人姓名";
+
+/* Class = "UITextField"; placeholder = "持卡人本人银行卡号"; ObjectID = "Br3-0a-9Jp"; */
+"Br3-0a-9Jp.placeholder" = "持卡人本人银行卡号";
+
+/* Class = "UITextField"; placeholder = "请输入名称"; ObjectID = "BvC-DA-9Ea"; */
+"BvC-DA-9Ea.placeholder" = "请输入名称";
+
+/* Class = "UITextField"; placeholder = "请输入金额额"; ObjectID = "Cxa-Ep-GZT"; */
+"Cxa-Ep-GZT.placeholder" = "请输入金额额";
+
+/* Class = "UILabel"; text = "分期数"; ObjectID = "D6n-Hi-Zmd"; */
+"D6n-Hi-Zmd.text" = "分期数";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "FM3-08-QZx"; */
+"FM3-08-QZx.text" = "0.00";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "GJd-mv-DxE"; */
+"GJd-mv-DxE.title" = "确定";
+
+/* Class = "UITextField"; placeholder = "请输入所需资金"; ObjectID = "GTF-7q-0lS"; */
+"GTF-7q-0lS.placeholder" = "请输入所需资金";
+
+/* Class = "UILabel"; text = "总账单/元"; ObjectID = "Gzs-LR-mNi"; */
+"Gzs-LR-mNi.text" = "总账单/元";
+
+/* Class = "UINavigationItem"; title = "添加账单"; ObjectID = "Ha1-0u-cnZ"; */
+"Ha1-0u-cnZ.title" = "添加账单";
+
+/* Class = "UIButton"; configuration.subtitle = "借出管理"; ObjectID = "HsF-cU-Lf1"; */
+"HsF-cU-Lf1.configuration.subtitle" = "借出管理";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HsF-cU-Lf1"; */
+"HsF-cU-Lf1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "标签#"; ObjectID = "IiW-XC-7Lr"; */
+"IiW-XC-7Lr.text" = "标签#";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "KPY-Ge-xek"; */
+"KPY-Ge-xek.title" = "确定";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "Kn7-uh-Rd8"; */
+"Kn7-uh-Rd8.text" = "0.00";
+
+/* Class = "UILabel"; text = "净资产/元"; ObjectID = "Kqy-HV-jrK"; */
+"Kqy-HV-jrK.text" = "净资产/元";
+
+/* Class = "UITextView"; text = " "; ObjectID = "Kup-rt-m1T"; */
+"Kup-rt-m1T.text" = " ";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "Lwi-HJ-sqf"; */
+"Lwi-HJ-sqf.title" = "确定";
+
+/* Class = "UITextField"; placeholder = "所属银行"; ObjectID = "MgU-ww-z00"; */
+"MgU-ww-z00.placeholder" = "所属银行";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "Nkp-ma-0hA"; */
+"Nkp-ma-0hA.title" = "首页";
+
+/* Class = "UILabel"; text = "900.00"; ObjectID = "Nvy-q2-il5"; */
+"Nvy-q2-il5.text" = "900.00";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "PfJ-2N-7BT"; */
+"PfJ-2N-7BT.text" = "0.00";
+
+/* Class = "UIButton"; configuration.subtitle = "借入管理"; ObjectID = "UkL-bK-PWx"; */
+"UkL-bK-PWx.configuration.subtitle" = "借入管理";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UkL-bK-PWx"; */
+"UkL-bK-PWx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "持卡人"; ObjectID = "Vry-1U-K0o"; */
+"Vry-1U-K0o.text" = "持卡人";
+
+/* Class = "UILabel"; text = "账号："; ObjectID = "WkL-Dd-rtQ"; */
+"WkL-Dd-rtQ.text" = "账号：";
+
+/* Class = "UILabel"; text = "添加银行卡"; ObjectID = "Y8r-mR-HSH"; */
+"Y8r-mR-HSH.text" = "添加银行卡";
+
+/* Class = "UILabel"; text = "go8479234234"; ObjectID = "Yil-HG-uT3"; */
+"Yil-HG-uT3.text" = "go8479234234";
+
+/* Class = "UILabel"; text = "人人贷款"; ObjectID = "YvA-j6-ihz"; */
+"YvA-j6-ihz.text" = "人人贷款";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "ZLd-3Q-5ym"; */
+"ZLd-3Q-5ym.text" = "0.00";
+
+/* Class = "UINavigationItem"; title = "下单分期"; ObjectID = "Zck-Kl-H5c"; */
+"Zck-Kl-H5c.title" = "下单分期";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "aY7-qH-vTu"; */
+"aY7-qH-vTu.text" = "0.00";
+
+/* Class = "UILabel"; text = "收入"; ObjectID = "ay6-TC-r7R"; */
+"ay6-TC-r7R.text" = "收入";
+
+/* Class = "UILabel"; text = "总账单"; ObjectID = "ca8-Kq-ofI"; */
+"ca8-Kq-ofI.text" = "总账单";
+
+/* Class = "UILabel"; text = "请绑定持卡人本人的银行卡"; ObjectID = "dzo-9G-Sys"; */
+"dzo-9G-Sys.text" = "请绑定持卡人本人的银行卡";
+
+/* Class = "UITextField"; placeholder = "请输入金额"; ObjectID = "ged-hb-BEK"; */
+"ged-hb-BEK.placeholder" = "请输入金额";
+
+/* Class = "UITextField"; placeholder = "请输入金额"; ObjectID = "hJa-wc-xR5"; */
+"hJa-wc-xR5.placeholder" = "请输入金额";
+
+/* Class = "UILabel"; text = "分期平台"; ObjectID = "hfX-gW-NLu"; */
+"hfX-gW-NLu.text" = "分期平台";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "hvy-cv-ndc"; */
+"hvy-cv-ndc.title" = "取消";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "keQ-Jx-0l0"; */
+"keQ-Jx-0l0.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "mNt-tE-a7g"; */
+"mNt-tE-a7g.title" = "取消";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "ncG-Fx-xQv"; */
+"ncG-Fx-xQv.title" = "取消";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "nfa-R5-t8c"; */
+"nfa-R5-t8c.title" = "确定";
+
+/* Class = "UILabel"; text = "下单金额"; ObjectID = "oa5-90-9cb"; */
+"oa5-90-9cb.text" = "下单金额";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "odV-vP-Gmp"; */
+"odV-vP-Gmp.title" = "我的";
+
+/* Class = "UILabel"; text = "总负债/元"; ObjectID = "pKu-Um-Rp1"; */
+"pKu-Um-Rp1.text" = "总负债/元";
+
+/* Class = "UILabel"; text = "收入/元"; ObjectID = "pSx-JQ-TqB"; */
+"pSx-JQ-TqB.text" = "收入/元";
+
+/* Class = "UILabel"; text = "分期数"; ObjectID = "r0B-KN-fwt"; */
+"r0B-KN-fwt.text" = "分期数";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "rV4-A2-Pvs"; */
+"rV4-A2-Pvs.text" = "0.00";
+
+/* Class = "UILabel"; text = "**** **** **** 8790"; ObjectID = "rnC-af-sXG"; */
+"rnC-af-sXG.text" = "**** **** **** 8790";
+
+/* Class = "UILabel"; text = "银行"; ObjectID = "s4O-Ws-Y99"; */
+"s4O-Ws-Y99.text" = "银行";
+
+/* Class = "UILabel"; text = "0/3"; ObjectID = "s79-CQ-h8n"; */
+"s79-CQ-h8n.text" = "0/3";
+
+/* Class = "UIBarButtonItem"; title = "添加借出"; ObjectID = "swx-ch-lYa"; */
+"swx-ch-lYa.title" = "添加借出";
+
+/* Class = "UIBarButtonItem"; title = "分期"; ObjectID = "t0Y-9R-t8s"; */
+"t0Y-9R-t8s.title" = "分期";
+
+/* Class = "UINavigationItem"; title = "账单"; ObjectID = "tW7-ZN-oWz"; */
+"tW7-ZN-oWz.title" = "账单";
+
+/* Class = "UILabel"; text = "总资产/元"; ObjectID = "u8P-ae-gYc"; */
+"u8P-ae-gYc.text" = "总资产/元";
+
+/* Class = "UIBarButtonItem"; title = "添加"; ObjectID = "uef-GK-axU"; */
+"uef-GK-axU.title" = "添加";
+
+/* Class = "UILabel"; text = "分期平台"; ObjectID = "wR4-yH-yq9"; */
+"wR4-yH-yq9.text" = "分期平台";
+
+/* Class = "UILabel"; text = "卡号"; ObjectID = "wTr-J0-iZe"; */
+"wTr-J0-iZe.text" = "卡号";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "x58-LA-LNk"; */
+"x58-LA-LNk.title" = "确定";
+
+/* Class = "UILabel"; text = "分期账单"; ObjectID = "xvV-iq-GB7"; */
+"xvV-iq-GB7.text" = "分期账单";
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "xzm-ka-cMp"; */
+"xzm-ka-cMp.title" = "取消";
+
+/* Class = "UILabel"; text = "应还总额/元"; ObjectID = "yg3-o2-mw3"; */
+"yg3-o2-mw3.text" = "应还总额/元";
+
+/* Class = "UIButton"; configuration.subtitle = "卡片管理"; ObjectID = "ysZ-Su-Mci"; */
+"ysZ-Su-Mci.configuration.subtitle" = "卡片管理";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ysZ-Su-Mci"; */
+"ysZ-Su-Mci.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "中国工商银行"; ObjectID = "z9z-Mc-8Tq"; */
+"z9z-Mc-8Tq.text" = "中国工商银行";
